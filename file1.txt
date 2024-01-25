@@ -1,1 +1,2 @@
-hello my friend
+Hello my friend!
+This is my first repository.

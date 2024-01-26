@@ -1,4 +1,5 @@
-Hello my friend!
+Hello my friend!try new conflikt
 This is my first repository.
 Add line
 for commitnew branch line
+
